@@ -10,4 +10,4 @@ A pretrained resnet model was converted to the ONNX format using Pytorch's inter
 - [get and print output from the model](https://docs.unity3d.com/Packages/com.unity.sentis@1.2/manual/get-the-output.html)
 
 ##### Inference Result
-![[images/Inference Results.png]]
+![Result](/images/Inference Results.png)
